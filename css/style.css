@@ -34,11 +34,11 @@
 
     width: 100%;
     border-radius: 5px;
-    background: #D6D6D6;
+    background: red;
 }
 
 #contact #form #submit {
     height: 30px;
-    background:  b7b7d6;
+    background:  #b7b7d6;
 
 }
